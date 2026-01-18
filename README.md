@@ -23,6 +23,10 @@ The uploaded application files are unchanged and retain their original crypto si
 
 But you should re-check yourself. Don't download from unofficial channels without re-checking that it's not a blatantly obvious virus.
 
+## Versions <= 1.0.14 requested
+
+If you still have an application bundle with a version v1.0.14 or lower, I would be really thankful it you could provide it for archiving so people on the older MacOS versions can get access to Wiregaurd client if need be. 
+
 ## Installation
 
 Download the application from the "Releases" section:
@@ -30,4 +34,4 @@ Download the application from the "Releases" section:
 - If you have an older version (10.14 to 12.0), get [v1.0.15](https://github.com/zakosaba/wireguard-macos-app/releases/tag/v1.0.15)
 
 After the download, extract the application from the archive. And then move it 
-into [global or local](https://apple.stackexchange.com/questions/312058/do-applications-install-for-all-users-or-only-for-one) `Applications` directory. 
+into [global or local](https://apple.stackexchange.com/questions/312058/do-applications-install-for-all-users-or-only-for-one) `Applications` directory.
